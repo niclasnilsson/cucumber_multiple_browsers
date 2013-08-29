@@ -1,4 +1,13 @@
-cucumber_multiplte_browsers
-===========================
+# Cucumbmer with multiple browsers 
 
-Example of running cucumber with multiple browsers.
+To run cucumber with the default browser:
+```bash
+rake
+```
+
+To run cucumber with the all browsers:
+```bash
+rake all_browsers
+```
+
+That's about it!
