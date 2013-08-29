@@ -2,7 +2,7 @@
 
 To run cucumber with the default browser:
 ```bash
-rake
+rake cucumber
 ```
 
 To run cucumber with the all browsers:
