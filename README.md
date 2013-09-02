@@ -1,4 +1,4 @@
-# Cucumbmer with multiple browsers 
+# Cucumber with multiple browsers
 
 To run cucumber with the default browser:
 ```bash
@@ -10,4 +10,4 @@ To run cucumber with the all browsers:
 rake all_browsers
 ```
 
-That's about it!
+That's about it.
