@@ -13,6 +13,7 @@ task :all_browsers do
   browsers = [
     { :browser => "chrome" },
     { :browser => "firefox" },
+    { :browser => "ie" },
   ]
 
   browsers.each do |browser|
